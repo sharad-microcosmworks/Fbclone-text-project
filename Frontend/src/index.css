@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    overflow-x: hidden;
+    background-color: #fff;
+}
+
+h1,h2,h3,p,span{
+color: white;
+}
